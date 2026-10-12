@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A lightweight command-line utlity written in Bash that calculates simple interest from user input.
+A lightweight command-line utility written in Bash that calculates simple interest from user input.
 
 ## Formula
 
